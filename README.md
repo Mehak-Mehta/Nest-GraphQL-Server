@@ -1,1 +1,1 @@
-# SSR-Vue.js
+# SSR-Next.js
