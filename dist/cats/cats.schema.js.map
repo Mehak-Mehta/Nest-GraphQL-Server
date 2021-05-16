@@ -1,0 +1,1 @@
+{"version":3,"file":"cats.schema.js","sourceRoot":"","sources":["../../src/cats/cats.schema.ts"],"names":[],"mappings":";;;;;;;;;;;;AAAA,+CAA+D;AAM/D,IAAa,GAAG,GAAhB,MAAa,GAAG;CASf,CAAA;AAPC;IADC,eAAI,EAAE;;iCACM;AAGb;IADC,eAAI,EAAE;;gCACK;AAGZ;IADC,eAAI,EAAE;;kCACO;AARH,GAAG;IADf,iBAAM,EAAE;GACI,GAAG,CASf;AATY,kBAAG;AAWH,QAAA,SAAS,GAAG,wBAAa,CAAC,cAAc,CAAC,GAAG,CAAC,CAAC"}
