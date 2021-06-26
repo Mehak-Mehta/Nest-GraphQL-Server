@@ -1,4 +1,4 @@
-import  {Module}  from "@nestjs/common";
+import  { Module }  from "@nestjs/common";
 import { MongooseModule } from '@nestjs/mongoose';
 import {GraphQLModule} from '@nestjs/graphql'
 import { CatsModule } from "./cats/cats.module";
