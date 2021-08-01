@@ -19,6 +19,4 @@ export class CatsResolvers {
   async createcat(@Args ('input' ) input: CatInput) {
       return this.catsService.create(input)
   }
-
-  
 }
